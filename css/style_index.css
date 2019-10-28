@@ -1,0 +1,147 @@
+body
+{
+	background-color: black;
+	opacity: 1.5;
+}
+
+
+
+
+.entete
+{
+	background: black;
+	border-left: 5px solid blue;
+	border-top: 5px solid white;
+	border-bottom: 5px solid white;
+	border-right: 5px solid red;
+
+}
+
+
+
+.titre_1
+{
+	color: blue;
+	text-align: center;
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.background_ile
+{
+	font-size: 30px;
+	font-family: cursive; 
+	margin-top: 15px;
+	margin-left: 20px;
+	color: white;
+}
+
+.histoire_ile
+{
+	font-size: 20px;
+	font-family: cursive;
+	text-align: center;
+	color: white;
+}
+
+.histoire_titre
+{
+	font-size: 20px;
+	font-family: cursive;
+	text-align: center;
+	text-decoration: underline;
+	color: white;
+}
+
+.plaintes_hrp
+{
+	font-size: 30px;
+	font-family: cursive;
+	margin-top: -70px;
+	text-align: right;
+	margin-right: 20px;
+	color: white;
+}
+
+.reglement
+{
+	text-align: center;
+	font-family: cursive;
+	font-size: 30px;
+	margin-top: -70px;
+	color: white;
+}
+
+
+.titre2
+{
+	text-align: center;
+	color: blue;
+	font-family: cursive;
+
+	background: black;
+	border-left: 10px dashed blue;
+	border-top: 10px dashed white;
+	border-bottom: 10px dashed white;
+	border-right: 10px dashed red;
+}
+
+.pied_page
+{
+	color: red;
+	font-family: cursive;
+	text-align: center;
+
+	background: black;
+	border-left: 5px dashed blue;
+	border-top: 5px dashed white;
+	border-bottom: 5px dashed white;
+	border-right: 5px dashed red;
+}
+
+.civil
+{
+	text-align: center;
+	font-family: cursive;
+	color: white;
+	text-decoration: underline;
+}
+
+.règles
+{
+	font-family: cursive;
+	color: white;
+}
+
+.page_plainte
+{
+	text-align: center;
+	font-family: cursive;
+	color: red;
+	text-decoration: underline;
+}
+
+.formulaire
+{
+	text-align: center;
+}
+
+
+body
+{
+	overflow-opacity: 0.1;
+}
+
+
+
+
+
+
+
+
+
+
