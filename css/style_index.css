@@ -84,10 +84,10 @@ a
 	font-family: cursive;
 
 	background: black;
-	border-left: 10px dashed blue;
-	border-top: 10px dashed white;
-	border-bottom: 10px dashed white;
-	border-right: 10px dashed red;
+	border-left: 5px solid blue;
+	border-top: 5px solid white;
+	border-bottom: 5px solid white;
+	border-right: 10px solid red;
 }
 
 .pied_page
